@@ -16,6 +16,10 @@ Here's how it might work:
     - "blur" option to blur/cover the image instantly. 
       
 
+#### cool links for development purposes that might be useful
+mozilla theme colors https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/theme#colors
+
+
 --- 
 
 Original README
