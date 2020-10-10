@@ -1,3 +1,25 @@
+New README
+
+Thinking about using this code as a starting point to develop a similar extension for hiding potentially triggering images.
+
+Here's how it might work:
+
+- There exists a repository of images considered triggering or otherwise better left unseen by the user.
+- When active and
+  - on image load:
+    - search database for an exact match of the image
+      - on exact match
+        - flag the DOM resource
+        - blur or put overlay where image would be.
+  + context menu entry for all images:
+    - add image to the database
+    - "blur" option to blur/cover the image instantly. 
+      
+
+--- 
+
+Original README
+
 # Image Hider (Chrome Extension)
 
 #### Description
